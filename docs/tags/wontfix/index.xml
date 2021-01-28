@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wontfix on i2site</title>
+    <link>https://jrdeng.github.io/i2site/tags/wontfix/</link>
+    <description>Recent content in wontfix on i2site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 28 Jan 2021 19:37:40 +0800</lastBuildDate><atom:link href="https://jrdeng.github.io/i2site/tags/wontfix/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Have fun!</title>
+      <link>https://jrdeng.github.io/i2site/post/2/</link>
+      <pubDate>Thu, 28 Jan 2021 19:37:40 +0800</pubDate>
+      
+      <guid>https://jrdeng.github.io/i2site/post/2/</guid>
+      <description>just try it out!
+Comments: (on github issue)  </description>
+    </item>
+    
+  </channel>
+</rss>
