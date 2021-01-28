@@ -12,6 +12,7 @@ example: https://jrdeng.github.io/i2site/
 2. set the `master/docs` as the source of GitHub Pages in your repo
 3. modify the hugo-template as you need (`config.toml`, `theme` etc.)
 4. push your changes to github.
+5. install [utterances](https://utteranc.es/) for comments in site.
 
 that's almost all.
 
