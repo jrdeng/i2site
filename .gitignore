@@ -1,0 +1,4 @@
+.vscode
+hugo-template/content/post
+hugo-template/public
+*.json

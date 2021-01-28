@@ -1,0 +1,46 @@
+baseURL = "https://jrdeng.github.io/i2site"
+languageCode = "zh-CN"
+title = "i2site"
+theme = "maupassant"
+summaryLength = 26
+
+[author]
+  name = "jrdeng"
+
+[params]
+  author = "jrdeng"
+  subtitle = "a site built from github issues"
+  keywords = "github,hugo"
+  description = ""
+
+[[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 99
+
+[[params.links]]
+    name = "hugo"
+    title = "hugo"
+    url = "https://gohugo.io/"
+
+[[params.links]]
+    name = "utterances"
+    title = "utterances"
+    url = "https://utteranc.es/"
+
+[[params.links]]
+    name = "maupassant-hugo"
+    title = "maupassant-hugo"
+    url = "https://github.com/rujews/maupassant-hugo"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
