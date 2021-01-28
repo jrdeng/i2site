@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>question on i2site</title>
+    <link>https://jrdeng.github.io/i2site/tags/question/</link>
+    <description>Recent content in question on i2site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 28 Jan 2021 22:33:01 +0800</lastBuildDate><atom:link href="https://jrdeng.github.io/i2site/tags/question/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>哈哈哈哈哈哈哈</title>
+      <link>https://jrdeng.github.io/i2site/post/3/</link>
+      <pubDate>Thu, 28 Jan 2021 22:33:01 +0800</pubDate>
+      
+      <guid>https://jrdeng.github.io/i2site/post/3/</guid>
+      <description>🥳 评论的header被显示到首页的摘要里去了，TODO
+Comments: (on github issue)  </description>
+    </item>
+    
+  </channel>
+</rss>
