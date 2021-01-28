@@ -50,6 +50,6 @@ jobs:
           git config --global user.name "Github Actions"
           git config --global user.email "bot@github.com"
           cd work_dir
-          diff docs/ hugo-template/public/
-          if [ $? = 0 ]; then echo "site has no different!"; else echo "update site"; rm -rf docs/*; cp hugo-template/public/* docs/ -a; git add .; git commit -m "auto gen by github actions"; git push; fi
+          echo TODO: diff docs/ and hugo-template/public/
+          echo "update site"; rm -rf docs/*; cp hugo-template/public/* docs/ -a; git add .; git commit -m "auto gen by github actions"; git push;
           cd ..
