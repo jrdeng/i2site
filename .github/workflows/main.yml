@@ -39,9 +39,10 @@ jobs:
           cd work_dir
           ./hugo-issue2post.py -r $GITHUB_REPOSITORY -f ../issues.json -d hugo-template/content/post/
           ls -l hugo-template/content/post/
+          cd hugo-template
           hugo
           ls -l
-          cd ..
+          cd ../..
 
       - name: Publish
         # using :master/doc as github pages, maybe try another branch?
