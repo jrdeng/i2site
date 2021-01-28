@@ -25,7 +25,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ github.repository }}
-          author: ${{ github.repository_owner }}
+          author: ""
           output_json: ./issues.json
 
       - name: Checkout current repo (to ./work_dir/)
