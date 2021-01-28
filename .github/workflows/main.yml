@@ -1,8 +1,8 @@
 name: Hugo site generator
 
 on:
-  push:
   issues:
+  push:
   workflow_dispatch:
 
 jobs:
