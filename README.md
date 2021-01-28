@@ -19,3 +19,16 @@ that's almost all.
 - issues changed
 
 for more customization, feel free to modify the `hugo-issue2post.py` and the `.github/workflows/main.yml`.
+
+for example, you may want to filter the issues by author, so only issues created by the author will be queried and generated to the site.
+you can set `author` in action:
+
+```
+      - name: Query issues by using query-issues-action
+        uses: jrdeng/query-issues-action@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repo: ${{ github.repository }}
+          author: ${{ github.repository_owner }}
+          output_json: ./issues.json
+```
