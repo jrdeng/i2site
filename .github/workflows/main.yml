@@ -25,7 +25,7 @@ jobs:
           sudo dpkg -i hugo_0.80.0_Linux-64bit.deb
 
       - name: Query issues by using query-issues-action
-        uses: jrdeng/query-issues-action@master
+        uses: jrdeng/query-issues-action@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repo: ${{ github.repository }}
@@ -55,5 +55,6 @@ jobs:
           git config --global user.email "bot@github.com"
           cd work_dir
           echo TODO: diff docs/ and hugo-template/public/
+          echo `date` > hugo-template/public/workaround
           echo "update site"; rm -rf docs/*; cp hugo-template/public/* docs/ -a; git add .; git commit -m "auto gen by github actions"; git push;
           cd ..
