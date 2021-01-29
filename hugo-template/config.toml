@@ -1,5 +1,5 @@
 baseURL = "https://jrdeng.github.io/i2site"
-languageCode = "en-US"
+languageCode = "zh-CN"
 title = "i2site"
 theme = "maupassant"
 summaryLength = 26
@@ -15,13 +15,13 @@ summaryLength = 26
 
 [[menu.main]]
     identifier = "archives"
-    name = "Archives"
+    name = "归档"
     url = "/archives/"
     weight = 2
 
 [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "关于"
     url = "/about/"
     weight = 99
 

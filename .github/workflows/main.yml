@@ -3,6 +3,10 @@ name: Hugo site generator
 on:
   issues:
   push:
+    paths:
+      - ".github/**"
+      - "hugo-template/**"
+      - "*.py"
   workflow_dispatch:
 
 jobs:
