@@ -6,7 +6,17 @@
     <description>Recent content in Posts on i2site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 29 Jan 2021 12:54:55 +0800</lastBuildDate><atom:link href="https://jrdeng.github.io/i2site/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Feb 2025 15:36:58 +0800</lastBuildDate><atom:link href="https://jrdeng.github.io/i2site/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试action是否正常</title>
+      <link>https://jrdeng.github.io/i2site/post/5/</link>
+      <pubDate>Tue, 25 Feb 2025 15:36:58 +0800</pubDate>
+      
+      <guid>https://jrdeng.github.io/i2site/post/5/</guid>
+      <description>debug一下
+Comments: (on github issue)  </description>
+    </item>
+    
     <item>
       <title>another issue</title>
       <link>https://jrdeng.github.io/i2site/post/4/</link>

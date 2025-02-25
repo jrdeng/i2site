@@ -3,22 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jrdeng.github.io/i2site/</loc>
+    <lastmod>2025-02-25T15:36:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jrdeng.github.io/i2site/post/</loc>
+    <lastmod>2025-02-25T15:36:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jrdeng.github.io/i2site/post/5/</loc>
+    <lastmod>2025-02-25T15:36:58+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jrdeng.github.io/i2site/post/4/</loc>
     <lastmod>2021-01-29T12:54:55+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://jrdeng.github.io/i2site/tags/foo/</loc>
-    <lastmod>2021-01-29T12:54:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jrdeng.github.io/i2site/</loc>
-    <lastmod>2021-01-29T12:54:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jrdeng.github.io/i2site/post/</loc>
     <lastmod>2021-01-29T12:54:55+08:00</lastmod>
   </url>
   
